@@ -1,7 +1,7 @@
 # Blazor + SignalR + pgNotifyNet + PostgresSQL notify/listen sample application
 ![build](https://github.com/psosnicki/blazor-signalr-postgresql-notifications-sample/actions/workflows/dotnet.yml/badge.svg)
 
-## An implementation of real time notification using SignalR and the PostgreSQL listen/notify feature + PgNotifyNet
+## An implementation of real time notification using SignalR and PostgreSQL listen/notify feature + PgNotifyNet
 
 ![Alt Text](Example/pgnotify_example.gif)
 
