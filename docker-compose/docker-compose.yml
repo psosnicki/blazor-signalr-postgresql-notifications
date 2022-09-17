@@ -35,8 +35,8 @@ services:
 
   pgnotify-net-sample:
      build:
-       context: ../../..
-       dockerfile: ./samples/PgNotifyNet.Sample/Dockerfile
+       context: ../
+       dockerfile: Dockerfile
      container_name: pgnotify-net-sample 
      image: pgnotifynet/sample
      depends_on:
