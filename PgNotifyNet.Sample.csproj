@@ -9,7 +9,7 @@
   <ItemGroup>
     <PackageReference Include="JsonDiffPatch.Net" Version="2.3.0" />
     <PackageReference Include="Microsoft.AspNetCore.SignalR.Client" Version="6.0.8" />
-    <PackageReference Include="PgNotifyNet" Version="1.0.0-beta" />
+    <PackageReference Include="PgNotifyNet" Version="1.0.1-beta" />
   </ItemGroup>
 
 </Project>
